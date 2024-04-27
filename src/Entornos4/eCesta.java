@@ -139,9 +139,7 @@ public class eCesta {
 		this.bono = bono;
 	}
 
-	public String getUsuario() {
-		return usuario;
-	}
+//He eliminado un getter 
 
 	public void setUsuario(String usuario) {
 		this.usuario = usuario;
